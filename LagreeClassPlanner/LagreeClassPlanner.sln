@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LagreeClassPlanner", "LagreeClassPlanner.csproj", "{E31EB5F4-A6D3-4791-A77B-537AA96BF6CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LagreeClassPlanner", "LagreeClassPlanner\LagreeClassPlanner.csproj", "{D8D5AD28-B4BD-473B-BBB3-3F0879411598}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{E31EB5F4-A6D3-4791-A77B-537AA96BF6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E31EB5F4-A6D3-4791-A77B-537AA96BF6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E31EB5F4-A6D3-4791-A77B-537AA96BF6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D5AD28-B4BD-473B-BBB3-3F0879411598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D5AD28-B4BD-473B-BBB3-3F0879411598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D5AD28-B4BD-473B-BBB3-3F0879411598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D5AD28-B4BD-473B-BBB3-3F0879411598}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
